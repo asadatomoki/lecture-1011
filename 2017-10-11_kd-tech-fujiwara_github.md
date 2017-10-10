@@ -361,12 +361,22 @@ Cloud9のBashで実行
 $ ruby nokogiri.rb
 ```
 
+<!-- slide -->
+参考: nokogiri自体の説明
+========================
+
+来週改めてやる予定です。
+
+-   [Nokogiriを使ったRubyスクレイピング \[初心者向けチュートリアル\] | 酒と涙とRubyとRailsと](http://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/index.html)
+-   公式リファレンス（英語）
+    -   [Documentation for sparklemotion/nokogiri (master)](http://www.rubydoc.info/github/sparklemotion/nokogiri)
+
 <!-- slide class="center" -->
 課題：実行ログをGitHubにプッシュ
 ================================
 
 -   Cloud9上でREADME.mdに以下を追記
-    -   `# 実行ログ`
+    -   `## 実行ログ`
     -   Bash上のログ（本日分全て）をコピーし貼り付ける
 -   Gitでプッシュを実行
     -   `git status`でリポジトリ状態を確認してみよう
